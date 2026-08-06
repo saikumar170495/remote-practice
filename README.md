@@ -6,6 +6,7 @@ ok
 
 hi this is edited from local
 This change was made directly in GitHub.
+This change is from GitHub.
 
 edited from local 6.
 
